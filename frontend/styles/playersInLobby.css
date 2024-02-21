@@ -1,0 +1,4 @@
+.alignSinglePlayer {
+    display: inline-flex;
+    flex-direction: column;
+}

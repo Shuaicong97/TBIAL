@@ -1,0 +1,5 @@
+Copyright: 2022 Dirk Beyer <https://www.sosy-lab.org>
+
+All rights reserved.
+Usage of this code is only allowed as part of the practical course
+"Software Engineering für Fortgeschrittene" at LMU Munich.

@@ -1,0 +1,36 @@
+.backgroundImage {
+       background-image: url("https://th.bing.com/th/id/R.da24262cedae15119a94e78841f7e8b9?rik=rPfdVl2t0PnddA&riu=http%3a%2f%2fwww.myfreetextures.com%2fwp-content%2fuploads%2f2014%2f10%2fseamless-wood-texture-1.jpg&ehk=W4KcXhvWhap9b5j6d9xjg6dhg%2bswoy1o41nASqEDT9g%3d&risl=&pid=ImgRaw&r=0");
+       background-position: center;
+       border-radius: 50px;
+ }
+
+.shiftChat{
+margin-left: -16px;
+}
+
+.shiftLeftContainer{
+margin-left: -20px;
+}
+
+.shiftMidContainer{
+margin-top: -30px;
+margin-left: -80px;
+margin-bottom: -32px;
+}
+
+.shiftRightContainer{
+margin-left: -48px;
+margin-right: -110px;
+}
+
+.cover{
+  margin-left: -78px;
+}
+
+.emptyDiscardPile{
+  z-index:0;
+}
+
+.zoom:hover {
+  transform: scale(1.5);
+}
